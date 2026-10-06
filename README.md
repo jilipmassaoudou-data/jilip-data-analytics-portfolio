@@ -2,11 +2,13 @@
 
 ## 👋 About me
 
-Data Analyst with a background in MEAL/SERA and humanitarian data, focused on turning data into clear insights for decision-making.
+Data Analyst with a background in MEAL/SERA and humanitarian data, focused on transforming data into clear insights for decision-making.
 
-My portfolio combines data analytics, monitoring and evaluation, UX research and business intelligence.
+My work combines data analytics, monitoring and evaluation, business intelligence and UX research.
 
-### 🛠️ Tools
+I am particularly interested in Data Analyst, Research Assistant, UX Research, MEAL/SERA Data and Customer Insights opportunities.
+
+## 🛠️ Tools & Skills
 
 - Power BI
 - DAX
@@ -15,50 +17,69 @@ My portfolio combines data analytics, monitoring and evaluation, UX research and
 - Power Query
 - KoboToolbox
 - XLSForm
-- UX Research
 - Data Visualization
+- UX Research
+- Quantitative Analysis
+- MEAL / SERA
 
-## 📊 Featured projects
+## 📊 Featured Projects
 
 ### 01 — Health Data Analysis
-SQL + MySQL + Power BI
 
-Analysis of healthcare activity data, including patients, consultations and health structures.
+**SQL + MySQL + Power BI**
+
+Healthcare data analysis covering patients, consultations and health structures.
+
+👉 [View project](01-health-analysis)
+
+---
 
 ### 02 — AAP & Complaints Analysis
-SQL + MySQL + Power BI
+
+**SQL + MySQL + Power BI + DAX**
 
 Analysis of complaints and accountability data, including resolution rates, response times and complaint categories.
 
+👉 [View project](02-aap-complaints)
+
+---
+
 ### 03 — Sales & Profitability Analysis
-Excel + Power BI + DAX
+
+**Excel + Power BI + DAX**
 
 Analysis of sales, revenue, costs, profitability and regional performance.
 
+👉 [View project](03-sales-analysis)
+
+---
+
 ### ⭐ 04 — UX Research & Data Analytics — Mobile Money Niger
 
-A fictional independent UX research case study exploring user experience and friction points during financial transactions.
+**XLSForm + KoboToolbox + Excel + Power BI + DAX + UX Research**
 
-500 simulated respondents across 8 regions of Niger.
+Independent simulated UX research case study exploring friction points during financial transactions.
 
-Methodology:
+**500 fictional respondents across 8 regions of Niger.**
 
-XLSForm → KoboToolbox → Excel → Power BI → UX analysis → Insights → Recommendations
+Research workflow:
 
-**Important:** All data are fictional. This project is independent and is not affiliated with any mobile money operator.
+**XLSForm → KoboToolbox → Excel → Power BI → UX Analysis → Insights → Recommendations**
 
-## 🎯 What I am looking for
+👉 [View project](04-mobile-money-ux)
 
-Opportunities in:
+**Important:** This is an independent simulated case study. All data are fictional and the project is not affiliated with any mobile money operator.
+
+## 🎯 Areas of Interest
 
 - Data Analysis
 - Business Intelligence
 - UX Research
-- Research Assistant roles
+- Research Assistant
 - MEAL / SERA Data
 - Customer Insights
 - Product Analytics
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/massaoudou-mahamadou-jilip-6194a61b1?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+LinkedIn: [Add your LinkedIn URL]
