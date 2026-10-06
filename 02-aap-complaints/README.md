@@ -72,7 +72,7 @@ Data → SQL/MySQL → Data preparation → Data modeling → DAX → Power BI �
 
 ## Dashboard Preview
 
-![AAP & Complaints Analysis](Dashboard-aap.png.PNG)
+![AAP & Complaints Analysis](dashboard-aap.png.PNG)
 
 ## Disclaimer
 
