@@ -115,3 +115,16 @@ No operator logo or proprietary data was used.
 Completed portfolio case study.
 
 The project demonstrates an end-to-end workflow from research questionnaire design to data analysis, visualization and UX recommendations.
+## Dashboard Preview
+
+### 01 — UX Overview
+
+![UX Overview](dashboard-01-ux-overview.png)
+
+### 02 — Frictions & parcours
+
+![Frictions & parcours](dashboard-02-frictions.png)
+
+### 03 — Segmentation & Insights
+
+![Segmentation & Insights](dashboard-03-segmentation.png)
