@@ -57,3 +57,6 @@ Excel → Power Query → Data model → DAX → Power BI → Dashboard → Insi
 ## Disclaimer
 
 This is an independent portfolio project using fictional data.
+## Dashboard Preview
+
+![Sales & Profitability Analysis](Dashboard_ventes.PNG)
