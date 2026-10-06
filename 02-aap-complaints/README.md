@@ -40,4 +40,6 @@ Data → SQL/MySQL → Data preparation → Power BI → Dashboard → Insights
 This is an independent portfolio project using fictional data.
 ## Dashboard Preview
 
-![AAP & Complaints Analysis](Dashboard-aap.png.PNG)
+## Dashboard Preview
+
+![Health Data Analysis](dashboard-health.png.PNG)
