@@ -118,13 +118,10 @@ The project demonstrates an end-to-end workflow from research questionnaire desi
 ## Dashboard Preview
 
 ### 01 — UX Overview
-
-![UX Overview](dashboard-01-ux-overview.png)
+![UX Overview](IMG_8788.png)
 
 ### 02 — Frictions & parcours
-
-![Frictions & parcours](dashboard-02-frictions.png)
+![Frictions & parcours](IMG_8789.png)
 
 ### 03 — Segmentation & Insights
-
-![Segmentation & Insights](dashboard-03-segmentation.png)
+![Segmentation & Insights](IMG_8790.png)
